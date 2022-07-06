@@ -15,6 +15,11 @@ NOTE: If this doesn't work try: python3 -m pip install mido; and if this doesn't
 
 6. If you have questions contact me in discord: Turtsle#4267
 
+#Skip all this
+
+Or you could simply not do any of that and go here: https://colab.research.google.com/drive/18h5P9s9DsB6IFcxzlcSxbtZx9fXBdkzz?usp=sharing
+
+You're welcome.
 
 #Credits
 
