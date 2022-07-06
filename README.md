@@ -11,6 +11,11 @@ NOTE: If this doesn't work try: python3 -m pip install mido; and if this doesn't
 
 4. Run thirtyDollarCreator.py in your python IDE
 
+5. Load the .txt file into https://thirtydollar.website/
+
+6. If you have questions contact me in discord: Turtsle#4267
+
+
 #Credits
 
 GDColon 
