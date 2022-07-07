@@ -15,7 +15,7 @@ NOTE: If this doesn't work try: python3 -m pip install mido; and if this doesn't
 
 6. If you have questions contact me in discord: Turtsle#4267
 
-7. (Optional) You can set TRANSPOSITION, NOTES_ABOVE, and FILE_NAME and they have a note next to them saying what they do
+7. (Optional) You can set a bunch of other stuff as well but read what it says next to them or everything will break down like me while I was coding this project
 
 #Skip all this
 
